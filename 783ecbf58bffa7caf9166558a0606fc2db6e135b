@@ -1,0 +1,1 @@
+{"jobID":"d3f6e4b1-73f4-7aef-81e1-96876dfc08e9","spec":{"type":"policy","cause":{"Message":"","User":"Dominik Andruszak \u003cdandruszak@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"automated":"true"},"remove":{}}}},"result":null}
