@@ -1,0 +1,1 @@
+{"jobID":"5f7ec0ff-c6f7-ca05-79da-8ff4321b0ba3","spec":{"type":"policy","cause":{"Message":"","User":"Dominik Andruszak \u003cdandruszak@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"","locked_user":"Dominik Andruszak \u003cdandruszak@gmail.com\u003e"},"remove":{}}}},"result":null}
